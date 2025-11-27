@@ -1,0 +1,126 @@
+# ======================
+# Byte-compiled / optimized / DLL files
+# ======================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C/C++ extensions
+*.so
+
+# ======================
+# Virtual environments / environments
+# ======================
+.venv/
+venv/
+env/
+ENV/
+.env
+.env.local
+.env.*.local
+
+# ======================
+# Distribution / packaging
+# ======================
+.Python
+build/
+dist/
+downloads/
+develop-eggs/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+*.manifest
+*.spec
+
+# ======================
+# Installer / pip logs
+# ======================
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ======================
+# Unit test / coverage / caches
+# ======================
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# ======================
+# Jupyter / IPython
+# ======================
+.ipynb_checkpoints/
+profile_default/
+ipython_config.py
+
+# ======================
+# OS / IDE / Editor files
+# ======================
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# VS Code
+.vscode/
+
+# JetBrains / PyCharm
+.idea/
+
+# Other editors or unwanted local files
+*.log
+
+# ======================
+# LLM / project-specific / secret files
+# ======================
+# Example: environment variables, credentials, keys
+secrets.json
+*.key
+*.pem
+credentials/
+private/
+*.env
+
+# ======================
+# Misc / build / cache / tmp
+# ======================
+*.tmp
+*.temp
+temp/
+temps/
+__pycache__/
+
+# ======================
+# Documentation / build outputs
+# ======================
+docs/_build/
+target/
+
+# ======================
+# Add other files or folders that are specific to your setup and should not be in VCS
+# ======================
